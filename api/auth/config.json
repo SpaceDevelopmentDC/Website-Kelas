@@ -1,0 +1,6 @@
+{
+  "prefix": "//",
+  "mongooseConnectionString": "0",
+
+  "footer": "Powered by azury.live"
+}
